@@ -1,0 +1,61 @@
+#>Adventure Starter
+
+##High Concept
+-A choose your own adventure game where the user picks the path of 
+    their newly started adventurer with every choice causing a new outcome!</p>
+
+
+##Genre
+
+  Choose your own adventure
+  Fantasy
+
+##Platform
+  Desktop only
+
+<hr>
+##Story
+You are an adventurer ready to join a guild and start their journey! 
+    But with a journey comes choices and hardships. Do you have what 
+    it takes to live life as an adventurer?
+
+
+##Esthetics
+The story will be shown through text with different music playing 
+    depending on the area the player is in. Sounds will be played for
+    different actions throughout the story such as attacking, getting 
+    attacked, losing, etc.
+
+
+
+##Gameplay
+###Mechanics
+Since this game will be played for the story, the player will make 
+    their choices for the path they choose by clicking the choice the 
+    1appears on the screen. There will also be a section for the 
+    previous choices and events that the player can click on to go to.
+
+
+###Control
+  Mouse
+
+###New user experience
+The controls for this game are straight forward once you know them 
+    so the first choice will tell the player how to play.
+
+
+###Player learning
+What the player will need to learn to beat the game is what is 
+    considered a dangerous option within the choices and avoid picking 
+    them whenever possible. There will be multiple ways to beat the 
+    game so there is not a set path that is needed to follow.
+
+##Screenshots
+<img class="image_1" src="media/image_1.jpg" alt="">
+<img class="image_2" src="media/image_2.jpg" alt="">
+
+##About developer
+My name is Garrett Paradis, I am currently a 2nd year Game Design 
+    student at RIT. My interests are mostly playing games, programming, 
+    and rock climbing. Video games have always been a big part of my 
+        life and I have always wanted to be able to create my own.
